@@ -1,19 +1,19 @@
 a:hover, a:focus, a:active{
-			color:orange;
-			background-color: gold;
-			font-style: italic;
+	color:orange;
+	background-color: gold;
+	font-style: italic;
 }
 
 a{
-			color:#4484CE;
+	color:#4484CE;
 }
 
 a:visited{
-			color:orange;
+	color:orange;
 }
 
 p{
-			color:#4484CE;
-			margin:5px;
+	color:#4484CE;
+	margin:5px;
 }
 
